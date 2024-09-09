@@ -1,0 +1,88 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #459c9c, #80ffff);
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav {
+  background-color: #444;
+  color: white;
+  padding: 10px;
+}
+nav ul {
+  text-align: center;
+}
+nav li {
+  display: inline;
+  margin-right: 50px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+main {
+  padding: 25px;
+}
+section {
+  background: linear-gradient(to bottom, #459c9c, #80ffff);
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  display: inline;
+  margin-right: 10px;
+  margin-top: 40px;
+}
+video{
+  width: 500px;
+  height: 313px;
+  
+}
+footer {
+  background-color: #444;
+  color: white;
+  text-align: center;
+  padding: 1px;
+}
+#damion {
+  font-family: 'Damion', cursive, sans-serif;
+}
+#showme{
+  text-align: center; 
+}
+#Devinfo h3, #Devinfo h4 {
+  display: inline;
+}
+#resume{
+  
+}
+#resume img{
+  height: 75px;
+  width: 75px;
+}
+#Devinfo{
+  color: black;
+}
+#resume{
+  color: black;
+  text-align: center;
+}
+#hobbys{
+  color: #333;
+}
+#hobbys img{
+  height: 500px;
+  width: auto;
+}
